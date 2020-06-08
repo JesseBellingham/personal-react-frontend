@@ -7,6 +7,22 @@ $main-margin-right: 35%;
 $aside-width: 35%;
 
 .main {
+  .console {
+    background-color: black;
+    color: #00ff13;
+    font-family: "Fira Mono", monospace;
+  }
+  
+  .about-me {
+    background-color: #4a5365;
+  }
+  
+  .name-header {
+    text-align: center;
+    font-weight: 900;
+    font-size: 60px;
+  }
+  
   margin: 0 auto;
 
   h3 {
