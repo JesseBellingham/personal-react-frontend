@@ -3,7 +3,7 @@
     "develop": "gatsby develop",
     "build": "gatsby build",
     "serve": "gatsby serve",
-    "deploy:github": "gatsby build && node ./scripts/deploy-github"
+    "deploy:github": "gatsby build && gh-pages -d public -b master -r https://github.com/JesseBellingham/jessebellingham.github.io.git"
   },
   "dependencies": {
     "flexboxgrid": "^6.3.1",
