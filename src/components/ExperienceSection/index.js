@@ -20,7 +20,7 @@ class ExperienceSection extends React.Component {
             title='Xero'
             link='https://www.xero.com'
             timeperiod='Nov 2019 - present'
-            subtitle='Working within the UK Payroll team, I have worked on features and platform improvements'
+            subtitle='Working within the UK Payroll team, I am contributing towards features and platform improvements.'
           />
           <ExperienceUnit
             logo={acurusLogo}
@@ -28,17 +28,14 @@ class ExperienceSection extends React.Component {
             title='Acurus'
             link='https://www.acurus.com.au/'
             timeperiod='May 2018 - Nov 2019'
-            subtitle='Learnt the ins and outs of product development and
-              built various features including a completely new product.'
+            subtitle='I was a key player in the initial development of the ANEX Customer Management Portal.'
           />
           <ExperienceUnit
             logo={quantumItLogo}
             title='Quantum IT'
             link='https://www.quantumit.com.au/'
             timeperiod='Nov 2016 - May 2017'
-            subtitle='Built real time GPS tracking on the iOS app,
-              all consumer facing web modules and external APIs in
-              this early stage startup.'
+            subtitle='I contributed features and bugfix on the InPlace student placement software.'
           />
         </div>
         <div className='row'>
@@ -47,14 +44,14 @@ class ExperienceSection extends React.Component {
             title="IDP Education"
             link='https://www.idp.com/'
             timeperiod='Nov 2016 - Feb 2017'
-            subtitle='Some stuff'
+            subtitle='I was contracted to assist with performance improvements in the IELTS test booking software.'
           />          
           <ExperienceUnit
             logo={intutoLogo}
             title="Intuto"
             link='https://www.intuto.com/'
             timeperiod='Sept 2015 - Oct 2016'
-            subtitle='Some stuff'
+            subtitle='I was hired straight out of my tertiary studies, and contributed features and bugfixes to the Intuto LMS.'
           />
         </div>
       </Section>
