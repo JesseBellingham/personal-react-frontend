@@ -7,6 +7,13 @@ $main-margin-right: 35%;
 $aside-width: 35%;
 
 .main {
+  background-color: #f9f9f9;
+
+  .hello-world {
+    text-align: center;
+    font-size: 40px;
+  }
+
   .console {
     background-color: black;
     color: #00ff13;
@@ -14,7 +21,7 @@ $aside-width: 35%;
   }
   
   .about-me {
-    background-color: #4a5365;
+    // background-color: #4a5365;
   }
   
   .name-header {

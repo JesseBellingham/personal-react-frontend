@@ -6,8 +6,6 @@ import get from 'lodash/get'
 import './style.scss'
 
 import profileImage from '../assets/images/profile-pic.jpg'
-import favicon16 from '../assets/favicons/favicon-16x16.png'
-import favicon32 from '../assets/favicons/favicon-32x32.png'
 
 class TemplateWrapper extends React.Component {
   render () {
@@ -29,10 +27,6 @@ class TemplateWrapper extends React.Component {
             { property: 'og:image', content: profileImage },
             { property: 'og:title', content: siteTitle },
             { property: 'og:description', content: siteDescription },
-          ]}
-          link={[
-            { rel: 'icon', type: 'image/png', sizes: '16x16', href: favicon16 },
-            { rel: 'icon', type: 'image/png', sizes: '32x32', href: favicon32 }
           ]}
         />
         <div className="template-wrapper-children">

@@ -8,7 +8,6 @@ class Console extends Component {
     return (
       <div className="console"
         style={{
-          // backgroundColor: "#383737",
           borderTop: "10px solid #ccc",
           borderBottom: "10px solid #ccc",
           borderRadius: "5px",
@@ -22,7 +21,7 @@ class Console extends Component {
         />
         <ConsoleLine
           lineTitle="jesse.skills"
-          lineDescription="['.Net Core', 'React.js', 'Angular', 'jQuery', 'PostgreSQL']"
+          lineDescription="['.Net Core', 'React.js', 'jQuery', 'PostgreSQL']"
         />
         <ConsoleLine
           lineTitle="jesse.interests"

@@ -19,7 +19,7 @@ class Links extends Component {
             </a>
           </li>
           <li className="icon">
-            <a href="mailto:hello@praagya.com" target="_blank">
+            <a href="mailto:hello@jessebellingham.com" target="_blank">
               <i className="fa fa-envelope"></i>
             </a>
           </li>

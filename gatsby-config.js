@@ -18,9 +18,9 @@ module.exports = {
     },
   ],
   siteMetadata: {
-    title: 'Praagya Joshi',
-    description: 'Full stack product enginner',
-    keywords: 'full stack, product enginner, portfolio, personal website',
-    url: 'https://www.praagya.com'
+    title: 'Jesse Bellingham',
+    description: 'Full stack developer',
+    keywords: 'full, stack, software, developer, portfolio',
+    url: 'https://www.jessebellingham.com'
   }
 };
