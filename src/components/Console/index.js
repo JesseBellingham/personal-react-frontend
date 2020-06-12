@@ -29,8 +29,8 @@ class Console extends Component {
         />
         <ConsoleLine
           lineTitle="jesse.email"
-          lineDescription="jbellingham91@gmail.com"
-          lineLink="mailto:jbellingham91@gmail.com"
+          lineDescription="hello@jessebellingham.com"
+          lineLink="mailto:hello@jessebellingham.com"
         />
       </div>
     )
