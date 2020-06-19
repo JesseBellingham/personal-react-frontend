@@ -27,7 +27,7 @@ class ExperienceSection extends React.Component {
             colour='#d10033'
             title='Acurus'
             link='https://www.acurus.com.au/'
-            timeperiod='May 2018 - Nov 2019'
+            timeperiod='May 2017 - Nov 2019'
             subtitle='I was a key player in the initial development of the ANEX Customer Management Portal.'
           />
           <ExperienceUnit
